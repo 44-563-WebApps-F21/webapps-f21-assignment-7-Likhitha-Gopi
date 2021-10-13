@@ -5,4 +5,4 @@ An assignment on java script modifying the DOM and using anonymous callback func
 
 [Hosted Reaction at](https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-Likhitha-Gopi/reaction.html)
 
-[Hosted Sort at](https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-Likhitha-Gopi/stack.html)
+[Hosted Stack at](https://44-563-webapps-f21.github.io/webapps-f21-assignment-7-Likhitha-Gopi/stack.html)
